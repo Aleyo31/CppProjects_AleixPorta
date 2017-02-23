@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello GitHub", "Hello GitHub\Hello GitHub.vcxproj", "{4E677CE5-9704-44E1-A461-AB248E7ED463}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheWalkingdead", "TheWalkingdead\TheWalkingdead.vcxproj", "{48C4387A-B344-4D69-B599-D84C03AD6FA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{4E677CE5-9704-44E1-A461-AB248E7ED463}.Release|x64.Build.0 = Release|x64
 		{4E677CE5-9704-44E1-A461-AB248E7ED463}.Release|x86.ActiveCfg = Release|Win32
 		{4E677CE5-9704-44E1-A461-AB248E7ED463}.Release|x86.Build.0 = Release|Win32
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Debug|x64.ActiveCfg = Debug|x64
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Debug|x64.Build.0 = Debug|x64
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Debug|x86.Build.0 = Debug|Win32
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Release|x64.ActiveCfg = Release|x64
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Release|x64.Build.0 = Release|x64
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Release|x86.ActiveCfg = Release|Win32
+		{48C4387A-B344-4D69-B599-D84C03AD6FA1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
